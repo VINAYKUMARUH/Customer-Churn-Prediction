@@ -4,7 +4,7 @@ Objective:
 The goal of this project is to predict whether a customer will leave (churn) or stay with a service provider based on their profile and usage data. By implementing a machine learning model (Random Forest), the project aims to assist businesses in identifying potential churners and taking preventive measures to retain them.
 
 Key Components:
-1. Dataset:
+Dataset:
 Customer Data: The dataset typically contains customer demographic information, usage patterns, contract details, and billing information. Common features include:
 
 Gender: Male or Female
